@@ -1,7 +1,10 @@
+```html
 "Determine that today you will overcome yourself of the day before,  
 tomorrow you will win over those of lesser skill, and later you will win over those of greater skill."  
 -Book of Five Rings,  
-  Miyamoto Musashi around 1645.
+- Miyamoto Musashi around 1645.
+```
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andru17urdna&theme=vue&show_icons=true" alt="andru17urdna" /></p>
 
