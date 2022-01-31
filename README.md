@@ -1,12 +1,19 @@
-```html
-"Determine that today you will overcome yourself of the day before,  
-tomorrow you will win over those of lesser skill, and later you will win over those of greater skill."  
--Book of Five Rings,  
-- Miyamoto Musashi around 1645.
-```
 
+<h1 style="color:gold">About me</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andru17urdna&theme=vue&show_icons=true" alt="andru17urdna" /></p>
+<hr>
+<div align='center'>
+    <h3>
+    "Determine that today you will overcome yourself of the day before, tomorrow you will win over those of lesser skill, and later you will win over those of greater skill."
+    </h3>
+    <p style="color:orange">Book of Five Rings, Miyamoto Musashi around 1645</p>
+<hr>
+<br/><br/>
+<br/><br/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=andru17urdna&theme=vue&show_icons=true" alt="andru17urdna" />
+
+</div>
 
 
 <!--
