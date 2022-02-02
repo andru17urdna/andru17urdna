@@ -10,23 +10,35 @@
 <hr>
 <br/><br/>
 <br/><br/>
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=andru17urdna&theme=vue&show_icons=true" alt="andru17urdna" />
-
 </div>
 
+<div >
+<table width='500px' align='left'>
+<tr>
+    <th>My beliefs:
+    </th>
+</tr>
+<tr>
+<td>I have a few rules that I like to fall back on when I'm creating anything whether it's coding or building, these rules help to guide me:
+<ul>
+<li>If you're already building it, make it stand out.</li>
+<li>Treat everything you create as if your name is on it.</li>
+<li>True quality can be found in the small details.</li>
+</ul>
 
-<!--
-**andru17urdna/andru17urdna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<tr>
+<td>
+People easily forget the larger picture but will
+always remember and be suprised at the attention to detail in the smallest things.
+</td>
+</tr>
 
-Here are some ideas to get you started:
+</td>
+</tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=andru17urdna&theme=vue&show_icons=true" alt="andru17urdna" />
+
+</div>
